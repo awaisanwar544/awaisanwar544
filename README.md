@@ -10,7 +10,7 @@ I'm a **Full Stack Developer** and my day to day work revolves around writing so
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight)
 
-[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=awaisanwar544&)](https://github-readme-streak-stats.herokuapp.com/?user=awaisanwar544&)
+[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=awaisanwar544&)]
 
 
 ## About Me?
