@@ -6,9 +6,9 @@ I'm a **Full Stack Developer** and my day to day work revolves around writing so
 
 ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awaisanwar544&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=awaisanwar544&count_private=true&theme=tokyonight&showicons=true))
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awaisanwar544&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=awaisanwar544&count_private=true&theme=tokyonight&showicons=true)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight))
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisanwar544&langs_count=5&theme=tokyonight)
 
 
 ## About Me?
