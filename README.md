@@ -48,7 +48,7 @@ I'm a **Full Stack Developer** and my day to day work revolves around writing so
   isInLoveWith() {
     return [
               'My son',
-              'semicolon ";" in the end of each statement...',
+              'semicolon ";" at the end of each statement...',
         ];
   }
 
